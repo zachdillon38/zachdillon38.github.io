@@ -1,1 +1,96 @@
+﻿body
+{
 
+}
+
+#heading{
+	text-align: center;
+	color:white;
+	size: 300%;
+	
+}
+#namebox{
+	background:mediumpurple;
+	box-shadow: black -10px 15px ;
+}
+
+#link{
+	text-decoration:none;
+	margin: 25px;
+	padding: 20px;
+	border-radius:20px;
+	background-color: white;
+	display:block;
+	text-align:center;
+	
+}
+
+#container{
+	background: rgba(0,0,0,.25);
+	text-decoration:none;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+#BoxLinks{
+
+	text-decoration:none;
+	background-color: mediumpurple;
+	width: 25%;    
+	height: 500px;
+	float:left;
+}
+
+#photobox1{
+	
+	background-color: pink;
+	width: 25%;    
+	height: 500px;
+	float:left;
+}
+#photobox2{
+	
+	background-color: mediumpurple;
+	width: 25%;    
+	height: 500px;
+	float:left;
+}
+#photobox3{
+	
+	background-color: pink;
+	width: 25%;    
+	height: 500px;
+	float:left;
+}
+
+img{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width:90%;
+  height:90%;
+ 
+
+}
+
+#BoxLinks:hover{
+	transform: scale(1.1,1.1);    
+	background-color: blueviolet;
+}
+#photobox1:hover{
+	transform: scale(1.1,1.1);    
+	background-color: hotpink;
+}
+#photobox2:hover{
+	transform: scale(1.1,1.1);    
+	background-color: darkviolet;
+}
+#photobox3:hover{
+	transform: scale(1.1,1.1);    
+	background-color: hotpink
+}
