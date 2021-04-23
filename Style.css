@@ -21,7 +21,11 @@
 	
 }
 
+#link:hover{
+	    
 
+	transform: scale(1.075,1.075);
+}
 
 * {
   box-sizing: border-box;
@@ -66,17 +70,4 @@ text-align:center;
 size:300%
 }
 
-#BoxLinks:hover{
-	    
 
-	transform: scale(1.075,1.075);
-}
-#photobox1:hover{
-	   
-
-	transform: scale(1.075,1.075);
-}
-#photobox2:hover{
-	
-
-	transform: scale(1.075,1.075);
