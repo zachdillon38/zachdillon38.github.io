@@ -40,14 +40,14 @@
 	float:left;
 }
 
-#photobox1{
+#MidBox{
 	
 	background-color: black;
 	width: 33%;    
 	height: 500px;
 	float:left;
 }
-#photobox2{
+#RightBox{
 	
 	background-color: black;
 	width: 33%;    
