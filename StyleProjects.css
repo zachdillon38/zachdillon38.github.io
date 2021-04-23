@@ -1,1 +1,83 @@
+#heading{
+	text-align: center;
+	
+	size: 500%;
+	
+}
+#namebox{
+	text-align: center;
+	
+	background-color: white ;
+}
 
+#link{
+	text-decoration:none;
+	margin: 15px;
+	padding: 10px;
+	border-radius:20px;
+	background-color: white;
+	display:block;
+	text-align:center;
+	
+}
+
+#link:hover{
+	    
+
+	transform: scale(1.075,1.075);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#BoxLinks{
+
+	text-decoration:none;
+	background-color: black;
+	width: 33%;    
+	height: 500px;
+	float:left;
+}
+
+#MidBox{
+	
+	background-color: black;
+	width: 33%;    
+	height: 500px;
+	float:left;
+}
+#RightBox{
+	
+	background-color: black;
+	width: 33%;    
+	height: 500px;
+	float:left;
+}
+
+
+#textblock{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width:90%;
+  height:90%;
+background-color:white;
+text-color:navajowhite;
+text-align:center;
+size:300%
+}
+
+img{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width:90%;
+  height:90%;
+ 
+
+}
