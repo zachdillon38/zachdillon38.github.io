@@ -26,10 +26,6 @@
 	
 }
 
-#container{
-	background: rgba(0,0,0,.25);
-	text-decoration:none;
-}
 
 
 * {
@@ -74,18 +70,16 @@ display: block;
 }
 
 #BoxLinks:hover{
-	transform: scale(1.1,1.1);    
-	background-color: blueviolet;
+	    
+	background-color: white;
+	transform: scale(1.075,1.075);
 }
 #photobox1:hover{
-	transform: scale(1.1,1.1);    
-	background-color: hotpink;
+	   
+	background-color: white;
+	transform: scale(1.075,1.075);
 }
 #photobox2:hover{
-	transform: scale(1.1,1.1);    
-	background-color: darkviolet;
-}
-#photobox3:hover{
-	transform: scale(1.1,1.1);    
-	background-color: hotpink
-}
+	
+	background-color: white;
+	transform: scale(1.075,1.075);
