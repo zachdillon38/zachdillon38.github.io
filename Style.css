@@ -52,7 +52,7 @@
 }
 
 
-img{
+#textblock{
 display: block;
   margin-left: auto;
   margin-right: auto;
@@ -60,7 +60,8 @@ display: block;
   margin-bottom: 5%;
   width:90%;
   height:90%;
- 
+ background-color:black;
+text-color:navajowhite;
 
 }
 
