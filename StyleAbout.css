@@ -1,13 +1,13 @@
 #heading{
-	text-align: center;
-	font-size:250%;
-	size: 500%;
+	text-align: right;
 	
+	size: 500%;
+	font-size: 250%
 }
 #namebox{
-	text-align: center;
-	font-size: 250%;
-	background-color: white ;
+	text-align: right;
+	font-size:250%;
+	background-color:white;
 }
 
 #link{
@@ -68,7 +68,7 @@ background-color:white;
 text-color:navajowhite;
 text-align:center;
 size:300%;
-font-size: 200%
+font-size:200%;
 }
 
 img{
